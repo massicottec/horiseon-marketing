@@ -8,7 +8,7 @@
 
 ## Usage
 
-    [screencapture of the website](https://github.com/massicottec/horiseon-marketing/blob/main/assets/images/horiseon%20readme.png)
+   ![screencapture of the website](assets/images/horiseon readme.png)
 
 ## Credits
 
