@@ -50,6 +50,10 @@ body {
 }
 
 a {
+    display: inline-block;
+    padding-right: 17px;
+    position: relative;
+    bottom: 3px;
     color: #ffffff;
     text-decoration: none;
 }
