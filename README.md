@@ -4,11 +4,11 @@
 
 ## Motivation
 
-    This was needed to make the website easier to access for users and find via engine searches.
+    This was needed to make the website easier to access for users and find via search engines.
 
-## Usage
+## Mock-UP
 
-    ![webpage mock-up](https://github.com/massicottec/horiseon-marketing/blob/main/assets/images/horiseon-readme.png?raw=true)
+    ![webpage mock-up](https://www.shutterstock.com/image-vector/animal-robots-cyborgs-seal-panda-600w-2128351382.jpg)
 
 ## Credits
 
