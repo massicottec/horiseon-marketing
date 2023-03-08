@@ -40,15 +40,6 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
-
-.header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
 a {
     display: inline-block;
     padding-right: 17px;
