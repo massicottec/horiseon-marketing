@@ -8,7 +8,7 @@
 
 ## Mock-UP
 
-    [webpage mock-up](./assets/images/horiseon-readme.png)
+    ![webpage mock-up](./assets/images/horiseon-readme-smaller.jpg)
 
 ## Credits
 
