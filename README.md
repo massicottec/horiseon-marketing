@@ -8,7 +8,7 @@
 
 ## Mock-UP
 
-    ![webpage mock-up](https://www.shutterstock.com/image-vector/animal-robots-cyborgs-seal-panda-600w-2128351382.jpg)
+    [webpage mock-up](./assets/images/horiseon-readme.png)
 
 ## Credits
 
