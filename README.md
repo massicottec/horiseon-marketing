@@ -8,7 +8,7 @@
 
 ## Usage
 
-    [screencapture of the website](./assets/images/horiseon%20readme.png)
+    [screencapture of the website](/assets/images/horiseon%20readme.png)
 
 ## Credits
 
