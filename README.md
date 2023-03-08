@@ -8,7 +8,7 @@
 
 ## Usage
 
-    <img src="./assets/images/horiseon-readme" alt="webpage mock-up"/>
+    [webpage mock-up](./assets/images/horiseon-readme.png)
 
 ## Credits
 
