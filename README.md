@@ -8,8 +8,8 @@
 
 ## Mock-UP
 
-    ![webpage mock-up](./assets/images/horiseon-readme-smaller.jpg)
-
+    ![horiseon-readme-smaller](https://user-images.githubusercontent.com/126348960/223870097-bc1289d5-f401-47f1-820f-4d7c4f2cf9d8.jpg)
+  
 ## Credits
 
     Chris Massicotte
