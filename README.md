@@ -8,7 +8,7 @@
 
 ## Usage
 
-   ![screencapture of the website](assets/images/horiseon readme.png)
+    <img src="./assets/images/horiseon-readme" alt="webpage mock-up"/>
 
 ## Credits
 
