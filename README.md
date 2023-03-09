@@ -9,7 +9,7 @@
 ## Mock-UP
 
     https://massicottec.github.io/horiseon-marketing/
-    <img src="./assets/images/horiseon-readme.png"/> 
+    [Alt text](./assets/images/horiseon-readme.png)
   
 ## Credits
 
